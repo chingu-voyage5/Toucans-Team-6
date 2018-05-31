@@ -7,4 +7,4 @@ Redesign of [Cake4Kids](http://www.cake4kids.org) non-profit | Voyage-5 | chingu
 * JS
 
 ## Team Members:
-Lauren - Tatyanna/Fl - SCharles
+Lauren - Tatyanna:Fl - SCharles
