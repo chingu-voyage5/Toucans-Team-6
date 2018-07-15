@@ -9,7 +9,7 @@ The site can be viewed at, https://chingu-voyage5.github.io/Toucans-Team-6/
 * JS
 
 ## Team Members:
-Lauren - Tatyanna:Fl - SCharles
+Tatyanna/Florida - Lauren - SCharles
 
 
 [![Waffle.io - Issues in progress](https://badge.waffle.io/chingu-voyage5/Toucans-Team-6.png?label=in%20progress&title=In%20Progress)](http://waffle.io/chingu-voyage5/Toucans-Team-6)

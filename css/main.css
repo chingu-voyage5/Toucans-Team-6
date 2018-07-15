@@ -571,7 +571,7 @@ a {
 }
 
 .w3-bar .w3-bar-item {
-    padding: 8px 16px;
+    /* padding: 8px 16px; */
     float: left;
     width: auto;
     border: none;
@@ -1553,7 +1553,7 @@ a {
 .w3-yellow,
 .w3-hover-yellow:hover {
     color: #000 !important;
-    background-color: #ffeb3b !important
+    background-color: yellow !important
 }
 
 .w3-white,
@@ -1699,7 +1699,7 @@ a {
 
 .w3-text-purple,
 .w3-hover-text-purple:hover {
-    color: #9c27b0 !important
+    color: #a628bd !important
 }
 
 .w3-text-deep-purple,
@@ -1724,7 +1724,7 @@ a {
 
 .w3-text-yellow,
 .w3-hover-text-yellow:hover {
-    color: #d2be0e !important
+    color: rgb(254, 254, 20) !important
 }
 
 .w3-text-white,
@@ -1918,6 +1918,23 @@ a {
 
 
 /* Custom CSS */
-.headerGradient{
+.gradient{
     background-image: linear-gradient(to top, #f6f6f289 0%, #f6f6f289 .5%, #fff 100%);
+}
+
+.helpPhotos{
+    width: 300px;
+    height:200px;
+}
+
+.evenHelpPhoto{
+    float:left;
+}
+
+.oddHelpPhoto{
+    float:right;
+}
+
+.smileSize {
+    
 }
