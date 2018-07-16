@@ -350,6 +350,7 @@ a {
 .w3-table-all th:first-child,
 .w3-table-all td:first-child {
     padding-left: 16px
+    padding-left: 16px
 }
 
 .w3-btn,
@@ -1518,7 +1519,7 @@ a {
 .w3-purple,
 .w3-hover-purple:hover {
     color: #fff !important;
-    background-color: #9c27b0 !important
+    background-color: #8000ff!important
 }
 
 .w3-deep-purple,
@@ -1699,7 +1700,7 @@ a {
 
 .w3-text-purple,
 .w3-hover-text-purple:hover {
-    color: #a628bd !important
+    color: #8000ff !important
 }
 
 .w3-text-deep-purple,
@@ -1724,7 +1725,9 @@ a {
 
 .w3-text-yellow,
 .w3-hover-text-yellow:hover {
-    color: rgb(254, 254, 20) !important
+    color: #ffff00 !important;
+    /* color: rgb(254, 254, 20) !important */
+
 }
 
 .w3-text-white,
@@ -1837,7 +1840,7 @@ a {
 
 .w3-border-purple,
 .w3-hover-border-purple:hover {
-    border-color: #9c27b0 !important
+    border-color: #8000ff !important
 }
 
 .w3-border-deep-purple,
@@ -1918,8 +1921,17 @@ a {
 
 
 /* Custom CSS */
-.gradient{
-    background-image: linear-gradient(to top, #f6f6f289 0%, #f6f6f289 .5%, #fff 100%);
+.backgroundImg{
+    background-image: url("../images/birthday-party-1438901.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.headerGradient{
+    background-image: linear-gradient(to top, #decdf889 0%, #f6f6f289 .5%, #decdf889 100%);
+    border-bottom: #c0add3;
+    color: #8300ab;
+    text-shadow: 2px 0px #e6e3e7;
 }
 
 .helpPhotos{
@@ -1937,4 +1949,21 @@ a {
 
 .smileSize {
     
+}
+
+.logo{
+    font-family: 'Rock Salt', cursive;
+}
+
+*, h1, h2{
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.facts{
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.light-purple{
+    color: #741dca;
 }
